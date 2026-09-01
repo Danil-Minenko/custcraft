@@ -9,14 +9,6 @@ const ui = useUiStore()
 components: {
   NicknameModal
 }
-// function onPageEnter() {
-//   if (!['/offer', '/privacy'].includes(route.path)) return
-//   if (!lenis) window.scrollTo(0, 0)
-//   window.lenis?.scrollTo(0, {
-//     immediate: true,
-//   })
-//   window.scrollTo(0, 0)
-// }
 </script>
 
 <template>
